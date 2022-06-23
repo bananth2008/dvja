@@ -12,8 +12,7 @@ updates:
   - package-ecosystem: "maven"
     directory: "/" 
     schedule:
-      interval: "daily"
-      
+      interval: "daily"   
   - package-ecosystem: "docker"
     directory: "/"
     schedule:
